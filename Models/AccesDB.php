@@ -9,8 +9,8 @@
 function connectDB(){
     $mysqli = new mysqli("localhost", "","","abp");
 
-    if ($mysqli->connect_errno){
-        if(s)
+    if ($mysqli->connet_errno){
+        if(){}
         
 
 
