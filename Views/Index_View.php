@@ -80,7 +80,11 @@
 		</div> <!-- form-group end.// -->
 	</div> <!-- form-row.// -->
 	<div class="form-group">
-		<label>Crear Contraseña</label>
+		<label>Login</label>
+	    <input class="form-control" type="password">
+    </div> <!-- form-group end.// -->  
+    <div class="form-group">
+		<label>Contraseña</label>
 	    <input class="form-control" type="password">
 	</div> <!-- form-group end.// -->  
     <div class="form-group">
