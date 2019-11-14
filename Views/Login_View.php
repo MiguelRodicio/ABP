@@ -29,12 +29,11 @@ class Login{
 <div class="col-md-6">
 <div class="card">
 <header class="card-header">
-	
-	<h4 class="card-title mt-2">Acceder</h4>
+	<!--<a href="" class="float-right btn btn-outline-primary mt-1">Login</a>-->
+	<h4 class="card-title mt-2">Login</h4>
 </header>
 <article class="card-body">
 <form>
-
 	<div class="form-group">
 		<label>Login</label>
 	    <input class="form-control" type="password">
